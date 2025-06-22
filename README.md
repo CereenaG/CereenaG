@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-"waka"
+<gh_CereenaG>/<gh_CereenaG> <gh_CereenaG>/<CereenaG>
 <!--END_SECTION:waka-->
