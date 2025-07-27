@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🌱 I’m currently learning fronntend and java
+ 🌱I'm currently learning Java for backend development along with frontend technologies.
  
 <!--START_SECTION:waka-->
 
