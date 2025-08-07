@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
- 🌱I'm currently learning Java for backend development along with frontend technologies.
+
+ 🌱I'm currently learning Java for backend development along with frontend technologies.-->
  
 <!--START_SECTION:waka-->
 
