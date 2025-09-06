@@ -30,5 +30,7 @@ Markdown         1 hr 7 mins     ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 ![](./profile-3d-contrib/profile-night-green.svg)
-![](https://github.com/CereenaG/CereenaG/blob/output/snake.gif)
+![GitHub Snake Light](https://github.com/CereenaG/CereenaG/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/CereenaG/CereenaG/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
