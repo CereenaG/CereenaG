@@ -30,4 +30,5 @@ Markdown         1 hr 7 mins     ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 ![](./profile-3d-contrib/profile-night-green.svg)
-![Snake animation](https://github.com/CereenaGE/CereenaG/blob/output/snake.gif)
+![](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/snake.gif)
+
