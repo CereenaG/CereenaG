@@ -31,7 +31,8 @@ Markdown          1 hr 23 mins    ▓░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 <!--![](./profile-3d-contrib/profile-night-green.svg)-->
 
-![Uploading 4a3556d4-7739-44ea-be86-236252bc2d9b_Ascified.jpg…]()
+
+![Frog](https://github.com/user-attachments/assets/683f8fad-6e82-498f-913c-06d059fa4794)
 
 
 ```
