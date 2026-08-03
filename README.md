@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 125 hrs
+Total Time: 125 hrs 1 min
 
 Java              41 hrs 57 mins        ████████▒░░░░░░░░░░░░░░░░   33.57 %
 JavaScript        29 hrs 59 mins        ██████░░░░░░░░░░░░░░░░░░░   24.00 %
