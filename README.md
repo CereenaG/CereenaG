@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Frog](https://github.com/user-attachments/assets/683f8fad-6e82-498f-913c-06d059fa4794)
  🌱I'm currently learning Java for backend development along with frontend technologies.-->
  
 <!--START_SECTION:waka-->
@@ -32,7 +33,6 @@ Python            12 hrs 18 mins        ██▒░░░░░░░░░░�
 <!--![](./profile-3d-contrib/profile-night-green.svg)-->
 
 
-![Frog](https://github.com/user-attachments/assets/683f8fad-6e82-498f-913c-06d059fa4794)
 
 
 ![](https://github.com/CereenaG/CereenaG/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
